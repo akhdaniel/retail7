@@ -1,0 +1,16 @@
+Date,Journal,Period,Reference,Starting Balance,Ending Balance,Statement lines/Date,Statement lines/OBI,Statement lines/Reference,Statement lines/Type,Statement lines/Partner,Statement lines/Account,Statement lines/Amount,DB/CR
+2014-09-30,BCA,09/2014,/,87244677,118986970,2014-09-04,1,TRSF E-BANKING DB 0409/FTSCY/WS95011        akomodasi luar kota,General,,6-311014 Keperluan Lain-lain,-500000,DB
+,,,,,,2014-09-05,2,TRSF E-BANKING DB 0509/FTSCY/WS95011         beli tiket semarang,General,,6-311014 Keperluan Lain-lain,-701830,DB
+,,,,,,2014-09-08,3,BYR VIA E-BANKING TANGGAL :06/09    06/09  WSID95011001200 SIMPATI,General,,6-311014 Keperluan Lain-lain,-100000,DB
+,,,,,,2014-09-08,4,TRSF E-BANKING CR 0809/FTSCY/WS95011      Pembayaran HENRA,Customer,FAUZIAH,1-121001 Piutang Usaha,76000000,CR
+,,,,,,2014-09-08,5,TARIKAN ATM TARIKAN ATM 08/09,General,,6-311014 Keperluan Lain-lain,-1000000,DB
+,,,,,,2014-09-12,6,SETORAN TUNAI CV BERDIKARI,Customer,BERDIKARI. UD,1-121001 Piutang Usaha,15000000,CR
+,,,,,,2014-09-17,7,TRSF E-BANKING DB 1709/FTSCY/WS95011         akomodasi luar kota,General,,6-311014 Keperluan Lain-lain,-250000,DB
+,,,,,,2014-09-19,8,KARTU KREDIT 0100 BCA CARD  ,General,,6-311014 Keperluan Lain-lain,-10000000,DB
+,,,,,,2014-09-19,9,BIAYA ADM ,General,,6-311014 Keperluan Lain-lain,-13000,DB
+,,,,,,2014-09-22,10,BIAYA KARTU ATM BIAYA KARTU ATM,General,,6-311014 Keperluan Lain-lain,-15000,DB
+,,,,,,2014-09-22,11,TRSF E-BANKING DB 2009/FTSCY/WS95011       akomodasi proyek,General,,6-311014 Keperluan Lain-lain,-1722600,DB
+,,,,,,2014-09-23,12,ND-PROVISI BY SET ANTAR CAB,General,,6-311014 Keperluan Lain-lain,-5000,DB
+,,,,,,2014-09-23,13,TRSF E-BANKING DB 2309/FTSCY/WS95011       Gaji Karyawan,General,,6-311014 Keperluan Lain-lain,-45000000,DB
+,,,,,,2014-09-30,14,BUNGA ,General,,6-311014 Keperluan Lain-lain,62154,CR
+,,,,,,2014-09-30,15,PAJAK BUNGA ,General,,6-311014 Keperluan Lain-lain,-12431,DB
